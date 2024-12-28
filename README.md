@@ -94,7 +94,7 @@ Follow these steps to add your project to this repository:
 
 1. Your pull request will be reviewed by the repository maintainers.
 2. Once approved, your project will become part of the official ETH Builder's Day collection!
-3. You’ll join an open-source community and inspire future builders. 🚀
+3. You’ll join an open-source community and inspire future builders.
 
 ---
 
