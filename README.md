@@ -100,6 +100,6 @@ Follow these steps to add your project to this repository:
 
 ## Need Help?
 
-Don’t hesitate to reach out if you face any issues. Join our **Bhopal DAO Discord** or drop your queries under the [Discussions](https://github.com/BhopalDAO/on-chain-portfolio/discussions) tab.
+Don’t hesitate to reach out if you face any issues. Join our **[Bhopal DAO Telegram Channel](https://t.me/BhopalDAO)** or drop your queries under the [Discussions](https://github.com/BhopalDAO/on-chain-portfolio/discussions) tab.
 
 Let’s make Web3 better, one portfolio at a time!
